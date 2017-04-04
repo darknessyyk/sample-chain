@@ -1,2 +1,7 @@
-# sample-chain
-A kotlin implementation of block chain data structure
+# Sample Chain
+
+A simplest block chain data structure implementation for kotlin
+
+Plan to extend it as a simplest alt-chain client
+
+MIT licence
